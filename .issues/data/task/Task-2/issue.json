@@ -1,0 +1,21 @@
+{
+  "node_id": "904f3626",
+  "node_type": "task",
+  "node_index": 2,
+  "label": "Task-2",
+  "title": "Capture narrative arc: stakeholder interview and role responses",
+  "description": "Use the stakeholder interview and all 9 role responses to document the decision genealogy and narrative arc of this moment in the project. Cover the arc from scaffolding sprint to P0 crisis to recovery to this stakeholder interview moment. This is a Phase 2 aggregation task that depends on all Phase 1 role responses being completed first.",
+  "status": "backlog",
+  "created_at": 1770744100340,
+  "updated_at": 1770744100340,
+  "created_by": "11047e48",
+  "tags": [
+    "stakeholder-interview",
+    "narrative",
+    "phase-2"
+  ],
+  "links": [],
+  "properties": {
+    "priority": "P1"
+  }
+}
