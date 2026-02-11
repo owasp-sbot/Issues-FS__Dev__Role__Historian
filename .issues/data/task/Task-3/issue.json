@@ -1,0 +1,15 @@
+{
+  "node_id": "a841a8ea",
+  "node_type": "task",
+  "node_index": 3,
+  "label": "Task-3",
+  "title": "Capture milestone: The Great Merge (2026-02-11)",
+  "description": "",
+  "status": "done",
+  "created_at": 1770773563178,
+  "updated_at": 1770773570635,
+  "created_by": "1a550257",
+  "tags": [],
+  "links": [],
+  "properties": {}
+}
